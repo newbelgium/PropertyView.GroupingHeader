@@ -6,3 +6,4 @@
 /packages
 /PropertyView.GroupingHeader/bin/Debug
 /PropertyView.GroupingHeader/obj/Debug
+*.nupkg
